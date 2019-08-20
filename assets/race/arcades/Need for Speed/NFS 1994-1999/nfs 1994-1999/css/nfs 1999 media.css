@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px) {
+	.overlay:target+.popup:not(:first-child) {
+		display: block;
+	}
+
+.overlay:target+.popup {
+	top: 3%;
+}
+
+.description {
+	margin-left: -3px;
+	padding: 40px;
+	font-size: 19px;
+}
+
+.list {
+	margin-left: -20px;
+}
+
+}

@@ -1,0 +1,41 @@
+@media screen and (max-width: 750px) {
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	text-decoration: none;
+	list-style: none;
+}
+
+.Game-description {
+	font-size: 22px;
+	margin-top: 10px;
+}
+
+.flavor-nav {
+	text-align: center;
+	width: 590px;
+	margin-top: 10px;
+	margin-left: -345px;
+}
+
+.filter-text {
+	margin-top: 10px;
+}
+
+.foto-article {
+	width: 100%;
+}
+
+.footer-nfs {
+	margin-top: 234px;
+}
+
+}
