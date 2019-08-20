@@ -1,0 +1,51 @@
+@media screen and (max-width: 890px) {
+	.american-sim {
+		margin-top: -30px;
+	}
+
+	.american-pics {
+		max-width: 80%;
+		margin-left: 10px;
+		margin-top: 40px;
+	}
+
+	.american-sim-text {
+		margin-top: 70px;
+		margin-left: -40px;
+	}
+
+	.american-sim-desc-1 {
+		margin-top: 40px;
+		margin-left: -40px;
+	}
+
+	.system-text-1 {
+		margin-left: -40px;
+		margin-top: 10px;
+	}
+
+	.Euro {
+		margin-top: -30px;
+	}
+
+	.euro-pics {
+		max-width: 80%;
+		margin-left: 10px;
+		margin-top: 40px;
+	}
+
+	.euro-sim-text {
+		margin-top: 70px;
+		margin-left: -40px;
+	}
+
+	.euro-sim-desc-2 {
+		margin-top: 40px;
+		margin-left: -40px;
+	}
+
+	.system-text-2 {
+		margin-left: -40px;
+		margin-top: 10px;
+	}
+}

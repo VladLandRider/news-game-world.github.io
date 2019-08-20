@@ -1,0 +1,31 @@
+@media screen and (max-width: 890px) {
+	.small-pics {
+		width: 40%;
+	}
+
+	.desc-link {
+		margin-left: 150px;
+		margin-top: -140px;
+	}
+
+	.desc-link a {
+		font-size: 20px;
+	}
+
+	.dlc-information {
+		margin-top: 170px;
+	}
+
+	.dlc-link {
+		margin-left: 190px;
+		margin-top: -90px;
+	}
+
+	.dlc-link a {
+		font-size: 20px;
+	}
+
+	.footer-sim {
+		margin-top: 222px;
+	}
+}
