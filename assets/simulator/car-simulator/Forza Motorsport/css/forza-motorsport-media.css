@@ -1,0 +1,57 @@
+@media screen and (max-width: 890px) {
+	.forza-img {
+		width: 80%;
+		height: 650px;
+		margin-left: 50px;
+	}
+
+	.description {
+		margin-left: -440px;
+		margin-top: 10px;
+	}
+
+	.forza-text {
+		margin-top: 20px;
+		margin-left: -10px;
+	}
+
+	.text-system {
+		margin-left: 80px;
+		margin-top: 10px;
+	}
+
+	/* width */
+::-webkit-scrollbar {
+    width: 20px;
+    background: #fff;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    border-radius: 30px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+    background: #00B300;
+}
+
+::-webkit-scrollbar-button {
+	background-color: #00B300;
+	border-radius: 10px;
+	font-size: 40px;
+	color: #fff;
+}
+
+::-webkit-scrollbar-corner {
+	font-size: 20px;
+	background-color: #000;
+}
+
+::-webkit-resizer {
+	border-radius: 40px;
+	width: 20px;
+	background-color: #000;
+}
+}
