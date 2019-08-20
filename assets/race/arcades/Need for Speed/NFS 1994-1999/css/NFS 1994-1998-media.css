@@ -1,0 +1,162 @@
+@media screen and (max-width: 768px) {
+
+/*The Need For Speed 1994*/
+
+.foto-article-1 {
+	width: 300px;
+	height: 380px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.date-article {
+	text-align: center;
+}
+
+.article-text {
+	text-align: center;
+	font-size: 25px;
+}
+
+.nfs-description-1 {
+	margin-top: 10px;
+	margin-left: 13px;
+	font-size: 19px;
+}
+
+.nfs-description-2 {
+	margin-top: 0px;
+	margin-left: 13px;
+	font-size: 19px;
+}
+
+.nfs-description-3 {
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 17px;
+}
+
+.nfs-description-4 {
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 17px;
+}
+
+.nfs-description-5 {
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 17px;
+}
+
+.nfs-description-6 {
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 17px;
+}
+
+/*The Need For Speed 1994*/
+
+/*Need For Speed ll 1997*/
+
+.nfs-1997 {
+	margin-top: 40px;
+}
+
+.foto-article-2 {
+	width: 300px;
+	height: 380px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.nfs-description-7 {
+	margin-top: 20px;
+	margin-left: 13px;
+	font-size: 18px;
+}
+
+.nfs-description-8 {
+	margin-top: 20px;
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+.nfs-description-9 {
+	margin-top: 20px;
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+/*Need For Speed ll 1997*/
+
+/*Need for Speed III: Hot Pursuit (1998)*/
+
+.nfs-1998 {
+	margin-top: 40px;
+}
+
+.foto-article-3 {
+	width: 300px;
+	height: 380px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.nfs-description-10 {
+	margin-top: 20px;
+	margin-left: 13px;
+	font-size: 18px;
+}
+
+/*Need for Speed III: Hot Pursuit (1998)*/
+
+/*Need for Speed: High Stakes / Road Challenge (1999)*/
+
+.nfs-1999 {
+	margin-top: 40px;
+}
+
+.foto-article-4 {
+	width: 80%;
+	height: 350px;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+.nfs-description-13 {
+	margin-top: 20px;
+	margin-left: 15px;
+	font-size: 18px;
+}
+
+.nfs-description-14 {
+	margin-top: 20px;
+	margin-left: 60px;
+	font-size: 18px;
+}
+
+.nfs-description-15 {
+	margin-top: 20px;
+	margin-left: 60px;
+	font-size: 18px;
+}
+
+.nfs-description-16 {
+	margin-top: 20px;
+	margin-left: 60px;
+	font-size: 18px;
+}
+
+.nfs-description-17 {
+	margin-top: 20px;
+	margin-left: 60px;
+	font-size: 18px;
+}
+
+/*Need for Speed: High Stakes / Road Challenge (1999)*/
+
+.footer-nfs {
+	margin-top: 30px;
+}
+
+}

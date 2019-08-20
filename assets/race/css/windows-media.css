@@ -1,0 +1,72 @@
+@media screen and (max-width: 1090px) {
+
+.Forza-Horizon-4 {
+	max-width: 350px;
+	height: 610px;
+	background: #CCD5DF;
+	margin: 50px auto;
+}
+
+.Forza-logo {
+	max-width: 100%;
+	height: 200px;
+}
+
+.Forza-text {
+	margin-left: 120px;
+	margin-top: 10px;
+}
+
+.Forza-description {
+	margin-top: 5px;
+	margin-left: 20px;
+	padding: 10px;
+}
+
+.Need-For-Speed-Payback {
+	max-width: 350px;
+	height: 530px;
+	background: #CCD5DF;
+	margin: 50px auto;
+}
+
+.Need-logo {
+	max-width: 100%;
+	height: 200px;
+}
+
+.Need-text {
+	margin-left: 109px;
+	margin-top: 10px;
+}
+
+.Need-description {
+	margin-top: 5px;
+	margin-left: 20px;
+	padding: 10px;
+}
+
+.The-Crew {
+	max-width: 350px;
+	height: 530px;
+	background: #CCD5DF;
+	margin: 50px auto;
+}
+
+.Crew-logo {
+	max-width: 100%;
+	height: 200px;
+}
+
+.Crew-text {
+	margin-left: 130px;
+	margin-top: 10px;
+}
+
+.Crew-description {
+	margin-top: 5px;
+	margin-left: 20px;
+	padding: 8px;
+}
+
+}
