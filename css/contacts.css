@@ -1,0 +1,184 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	text-decoration: none;
+	list-style: none;
+}
+
+/*Адаптивное меню*/
+
+#ngw-menu {
+  text-align: center;
+}
+
+.topnav {
+  overflow: hidden; 
+  background: #FF9F00;
+}
+
+.topnav a {
+    font-family: 'EB Garamond', serif;
+    display: inline-block;
+    color: #f2f2f2;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 23px;
+}
+
+.topnav a:hover {
+    background-color: #ED750B;
+    color: #fff;
+}
+
+.active {
+    background-color: #FF9F00;
+    color: white;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+/*Адаптивное меню*/
+
+/*Контакты*/
+
+.contacts-ngw {
+	margin-top: 50px;
+}
+
+.vk-ngw {
+	border: 3px solid #000;
+	width: 35px;
+	margin: 30px;
+	padding: 10px;
+}
+
+.icon-vk-1 {
+	font-size: 30px;
+}
+
+.icon-vk-1 a {
+	color: #000;
+}
+
+.icon-vk-1 a:hover {
+	background: #fff;
+	color: #4984AD;
+}
+
+.text-ngw {
+	font-size: 20px;
+	font-family: 'Comfortaa', cursive;
+	margin-left: 90px;
+	margin-top: -60px;
+}
+
+.youtube-ngw {
+	border: 3px solid #000;
+	width: 35px;
+	margin: 30px;
+	padding: 10px;
+}
+
+.icon-youtube-1 {
+	font-size: 30px;
+}
+
+.icon-youtube-1 a {
+	color: #000;
+}
+
+.icon-youtube-1 a:hover {
+	background: #fff;
+	color: #DA2623;
+}
+
+.text-ngw {	
+	font-size: 20px;
+	margin-left: 102px;
+	margin-top: -72px;
+}
+
+.instagram {
+	border: 3px solid #000;
+	width: 35px;
+	height: 30px;
+	margin: 30px;
+	padding: 10px;
+}
+
+.icon-instagram-1 {
+	font-size: 38px;
+	margin-top: -5px;
+}
+
+.icon-instagram-1 a {
+	color: #000;
+}
+
+.icon-instagram-1 a:hover {
+	background: #fff;
+	color: #F89B4F;
+}
+
+.text-ngw {
+	font-size: 20px;	
+	font-family: 'Alegreya', serif;
+	margin-left: 102px;
+	margin-top: -72px;
+}
+
+/*Контакты*/
+
+/*Подвал сайта*/
+
+.menu-footer {
+	max-width: 100%;
+	height: 200px;
+	background: #000;
+	margin-top: 243px;
+	text-align: center;
+}
+
+.menu-footer li {
+	margin-top: 10px;
+	margin-left: 19px;
+	display: inline-block;
+}
+
+.menu-footer a {
+	font-size: 24px;
+	color: #fff;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.menu-footer li:hover {
+	border-bottom: 2px solid #fff;
+	cursor: pointer;
+}
+
+.data {
+	font-size: 19px;
+	font-family: 'EB Garamond', serif;
+	max-width: 100%;
+	height: 60px;
+	background: #FF9F00;
+}
+
+.text-2 {
+	padding-top: 20px;
+	color: #fff;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+}
+
+/*Подвал сайта*/

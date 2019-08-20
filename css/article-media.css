@@ -1,0 +1,53 @@
+@media screen and (max-width: 780px) {
+
+.text-article {
+	margin: 20px;
+	padding-left: 10px;
+}
+
+.articles-mobiles {
+   margin: auto 40px -200px;
+}
+
+.sub-frame-1 {
+	height: 130px;
+}
+
+.link-text-1, .link-text-2, .link-text-3, .link-text-4, .link-text-5 {
+	font-size: 21px;
+}
+
+.article-item-1, .article-item-2, .article-item-3, .article-item-4, .article-item-5 {
+	max-width: 160px;
+}
+
+.sub-frame-1, .sub-frame-2 ,.sub-frame-4, .sub-frame-5 {
+	margin-top: 13px;
+	max-width: 180px;
+}
+
+.article-text {
+	margin-top: 6px;
+}
+
+.article-text li {
+	margin-top: -4px;
+}
+
+.sub-frame-3 {
+	margin-top: 13px;
+}
+
+.sub-frame-1, .sub-frame-2, .sub-frame-3 ,.sub-frame-4, .sub-frame-5 + li {
+	font-size: 10px;
+}
+
+.dev {
+  margin-top: 290px;
+}
+
+.menu-footer {
+	margin-top: 51px;
+}
+
+}

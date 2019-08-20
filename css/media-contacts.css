@@ -1,0 +1,52 @@
+@media screen and (max-width: 880px) {
+	.contacts-ngw {
+		margin-top: 90px;
+		margin-left: -20px;
+	}
+
+	.vk-ngw {
+		margin-top: -30px;
+    width: 20px;
+    height: 15px;
+	}
+
+  .youtube-ngw {
+    margin-top: 15px;
+    width: 20px;
+    height: 15px;
+  }
+
+  .text-ngw {
+    font-size: 13px;
+    margin-top: -60px;
+    margin-left: 90px;
+  }
+
+  .instagram {
+    margin-top: 10px;
+    width: 20px;
+    height: 15px;
+  }
+
+.icon-vk-1, .icon-youtube-1, .icon-instagram-1 {
+    font-size: 22px;
+    margin-top: -5px;
+}
+
+.icon-vk-1 {
+  margin-left: -2px;
+}
+
+.icon-youtube-1 {
+  margin-left: -2px;
+}
+
+.icon-instagram-1 {
+  margin-left: 1px;
+}
+
+.menu-footer {
+  margin-top: 320px;
+}
+
+}
