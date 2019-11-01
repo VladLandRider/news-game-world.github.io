@@ -1,5 +1,5 @@
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 12, 2019 15:37:25").getTime();
+var countDownDate = new Date("Nov 02, 2019 20:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -17,12 +17,12 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Display the result in the element with id="demo"
-  document.getElementById("works-time").innerHTML = days + "д " + hours + "ч "
+  document.getElementById("time-close").innerHTML = days + "д " + hours + "ч "
   + minutes + "м " + seconds + "с ";
 
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("works-time").innerHTML = "EXPIRED";
+    document.getElementById("time-close").innerHTML = "EXPIRED";
   }
 }, 1000);
